@@ -1,2 +1,2 @@
-# milner
-A gradually typed, procedural language with functional languages that allows the developer to use either dynamic or static concepts at their discretion
+# Milner (`.mn`)
+A multi-paradigm programming language featuring a hybrid execution model, named after Robin Milner. Developed as a super-curricular academic exploration into language theory, compiler construction, and discrete mathematics.
