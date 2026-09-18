@@ -13,3 +13,7 @@ Topics:
   Differences in convention
   Terminals vs Non-Terminals
   Optional and repeated constructs
+
+## Deterministic and Non-Deterministic Finite Automata
+### GeeksforGeeks Introduction to Finite Automata
+Link: https://www.geeksforgeeks.org/theory-of-computation/introduction-of-finite-automata/
